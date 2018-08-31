@@ -1,1 +1,2 @@
-Lite pythonspill laget for command-prompt
+Spill basert på minesweeper laget i python.
+Kjøres i en command prompt.
